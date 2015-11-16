@@ -84,7 +84,7 @@ include('template-parts/header.php'); ?>
     	</div><!-- /.col-lg-4 -->
     	<div class="col-lg-4">
     		<img class="img-circle" src="images/present.jpg" alt="PRESENT" style="width: 140px; height: 140px;">
-    		<h2>Christmas Present</h2>
+    		<h2>Hotfix</h2>
     		<p>Some fat guy in need of a shave.</p>
     		<p><a class="btn btn-default" href="javascript:clickSecondButton()" role="button" style="background-color:Green;">View details &raquo;</a></p>
     	</div><!-- /.col-lg-4 -->
